@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farish Jamal</h1>
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Express and React<br><br>🌱 I’m currently learning Backend Development<br><br>👨‍💻 All of my projects are available at https://farishjamal.netlify.app<br><br>💬 Ask me about Express, MongoDB, Javascript<br><br>📫 How to reach me farishjamal.work@gmail.com<br><br>⚡ Fun fact It’s all 0’s and 1’s
 
 
