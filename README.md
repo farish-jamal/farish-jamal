@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Farish Jamal</h1>
+<h1 text-align="center">Hi 👋, I'm Farish Jamal</h1>
 
 # About Me:
 📫 How to reach me farishjamal.work@gmail.com
