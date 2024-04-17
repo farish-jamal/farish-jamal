@@ -6,7 +6,6 @@
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=farish-jamal&theme=swift&hide_border=false&include_all_commits=false&count_private=false" width="400" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farish-jamal&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="200" alt="Top Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farish-jamal&theme=swift&hide_border=false" width="400" alt="GitHub Streak">
 </div>
 
